@@ -1,0 +1,1011 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mloc",
+				"mloc_3"
+			],
+			[
+				"mo",
+				"mloc_2"
+			],
+			[
+				"iaad",
+				"ia_addrp_addr"
+			],
+			[
+				"insAA",
+				"insAA_fromAddress"
+			],
+			[
+				"key",
+				"keywords	(statement)"
+			],
+			[
+				"k",
+				"kwargs	(statement)"
+			],
+			[
+				"module",
+				"module_name"
+			],
+			[
+				"option",
+				"optional_vars_args	(param)"
+			],
+			[
+				"opt",
+				"optional_vars_args	(statement)"
+			],
+			[
+				"optiona",
+				"optional_vars_args	(statement)"
+			],
+			[
+				"importe",
+				"importer	(statement)"
+			],
+			[
+				"op",
+				"optional_subscript	(statement)"
+			],
+			[
+				"decorato",
+				"decorator_list"
+			],
+			[
+				"MOd",
+				"Module	(class)"
+			],
+			[
+				"optin",
+				"optional_vars"
+			],
+			[
+				"macrodef",
+				"macro_def	(param)"
+			],
+			[
+				"decor",
+				"decorator_list"
+			],
+			[
+				"decoar",
+				"decorator_id"
+			],
+			[
+				"iter",
+				"iter_child_nodes	(function)"
+			],
+			[
+				"mar",
+				"macro_def	(statement)"
+			],
+			[
+				"decora",
+				"decorator_id"
+			],
+			[
+				"verion",
+				"version_info	(class)"
+			],
+			[
+				"ne",
+				"new_node	(statement)"
+			],
+			[
+				"Mult",
+				"MultipleListArgs	(class)"
+			],
+			[
+				"Sing",
+				"SingleListArg	(class)"
+			],
+			[
+				"AND",
+				"ANDROID_SDK_HOME	(statement)"
+			],
+			[
+				"clsro",
+				"cls_rows"
+			],
+			[
+				"getline",
+				"get_line_region"
+			],
+			[
+				"isintersec",
+				"is_intersect"
+			],
+			[
+				"scann",
+				"cls_scanned"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"clsregions",
+				"cls_regions"
+			],
+			[
+				"getl",
+				"get_linen"
+			],
+			[
+				"ac",
+				"Accordion"
+			],
+			[
+				"v",
+				"view"
+			],
+			[
+				"autocom",
+				"auto_complete"
+			],
+			[
+				"pro",
+				"kivy.uix.progressbar.ProgressBar "
+			],
+			[
+				"pr",
+				"kivy.uix.progressbar.ProgressBar "
+			],
+			[
+				"p",
+				"kivy.uix.popup.Popup "
+			],
+			[
+				"clsre",
+				"cls_regions"
+			],
+			[
+				"nenod",
+				"newnode"
+			],
+			[
+				"intere",
+				"interests_tags"
+			],
+			[
+				"emp",
+				"emptyNodes"
+			],
+			[
+				"s",
+				"strip"
+			],
+			[
+				"nex",
+				"nextsibling"
+			],
+			[
+				"output",
+				"_output"
+			],
+			[
+				"block",
+				"blockWhen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "nim_test.nim",
+			"settings":
+			{
+				"buffer_size": 15860,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 245.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"rename",
+				"Python Refactor: Rename"
+			],
+			[
+				"refact",
+				"Python Refactor: Rename"
+			],
+			[
+				"refactor",
+				"Python Refactor: Rename"
+			],
+			[
+				"disable",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"disabl",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"disabe",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"disable ",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disab",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"snippet u	",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"snippet sh",
+				"Snippet: python_class_attributes"
+			],
+			[
+				"aaa snip",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"aaa sn",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"enable ",
+				"Python: Enable Pep8 Linting On View"
+			],
+			[
+				"enable lin",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"disable lin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sublimeLinter enable",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"enable pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable package",
+				"Package Control: Enable Package"
+			],
+			[
+				"refactor rename",
+				"Refactor: Rename a field"
+			],
+			[
+				"rope",
+				"Refactor: Create Rope Project"
+			],
+			[
+				"mistak",
+				"Highlight Mistakes: Check Current File"
+			],
+			[
+				"mistake",
+				"Highlight Mistakes: Check Current File"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"listpac",
+				"Package Control: List Packages"
+			],
+			[
+				"aaa comm",
+				"z:AAAPackageDev: New Commands File"
+			],
+			[
+				"snipforl",
+				"Snippet: For Loop"
+			],
+			[
+				"snipcls",
+				"Snippet: New Class"
+			],
+			[
+				"snipme",
+				"Snippet: Method"
+			],
+			[
+				"snip",
+				"Snippet: Function"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"aaa",
+				"z:AAAPackageDev: New Settings File"
+			],
+			[
+				"syntax yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"color scheme",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"convert to",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"convert",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"new syntax",
+				"z:AAAPackageDev: New YAML Syntax Definition"
+			],
+			[
+				"syntax ini",
+				"Set Syntax: INI"
+			],
+			[
+				"create package",
+				"Package Control: Create Package File"
+			],
+			[
+				"convert to yaml",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Create Package File"
+			],
+			[
+				"conver to YAML",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"convert To YAML",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"convert to YAML",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"AAA",
+				"z:AAAPackageDev: New Package"
+			],
+			[
+				"conver to yam",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"convert to yam",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"convert to yamal",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"convert to yama",
+				"z:AAAPackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"excute",
+				"Inline Python: Execute selected code"
+			],
+			[
+				"inlinepython",
+				"Inline Python: Execute selected code"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 209.0,
+		"history":
+		[
+			"view.run_command('kivy_langfabc',dict())",
+			"view.run_command('kivy_langf',dict())",
+			"view.run_command('kivy_lang',dict())",
+			"view.run_command('kivy_import',dict())",
+			"view.run_command('kivy_import',dict(a=1,b=2))",
+			"view.run_command('kivy_import',[1,2,3,4])",
+			"view.run_command('kivy_import',1)",
+			"view.run_command('kivy_import',1,2,3)",
+			"view.run_command('kivy_import')",
+			"self.view.run_command('kivy_import')",
+			"view.run_command",
+			"insertCharacters",
+			"insertCharacters ",
+			"run_commands",
+			"run_command",
+			"run",
+			"run_commands",
+			"run_command",
+			"view.run_command(\"example\")",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/MyDocument/[Programing]/Python/PyNimCFFI"
+	],
+	"file_history":
+	[
+		"/F/Nim/config/nimdoc.cfg",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/kivydefinition.nim",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/kivyproperty.nim",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR52.200/nimrod.sublime-build",
+		"/C/Users/gordi_000/Desktop/nimrod.sublime-build",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR80.496/nimrod.sublime-build",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/oop7.nim",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/nimrod.sublime-settings",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR83.200/Default (Windows).sublime-keymap",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR83.200/nimrod.sublime-settings",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/NimLime/Default (Windows).sublime-keymap",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/kivylang2.nim",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/nimcache/c_python_callback.nim",
+		"/F/Nim/config/nim.cfg",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/nimcache/python_cAPI_test.nim",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/nimcache/python_cAPI_test.c",
+		"/F/MyDocument/[Programing]/Nimrod/C_learningNotes/python_capiA.c",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/castUtil.nim",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/kivywidget.nim",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/kivylang.nim",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/test.nim",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/utils.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/importer.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/example/macros.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/astutil/ast_tool.py",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/borrow/cpp.nim",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/UIframework/V1_TransformOK-2/borrow/cpp",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/nimcache/test.c",
+		"/D/Python34/include/Python.h",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/nimcache/temp.nim",
+		"/F/Nim/lib/system.nim",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/NimLime/nimrod.sublime-settings",
+		"/F/Nim/lib/nimbase.h",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/nimcache/nim_test.c",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/test2.py",
+		"/D/Python34/lib/ast.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/karnickel.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/example/test.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/macro_enhancement.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/karnickel_noprint.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/<unknown>",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/walker.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/astutil/codegen.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/test_karnickel.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/<ast>",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/temp_macros.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/<frozen importlib._bootstrap>",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/easyMacro",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/kivy/kivylang.nim",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/oop/oop7.nim",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/borrow/haskell.nim",
+		"/F/MyDocument/[Programing]/Nimrod/Projects/learningNotes/kivy/kivylang",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/python_super_snippet.sublime-snippet",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/example/fail.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/Color Highlighter/themes/KivyLang.tmTheme",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/LICENSE",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimePython.sublime-settings",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/astutil/debug.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-py3/astutil/mapping.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/KivyComplete.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel_py2/karnickel.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel_py2/test_karnickel.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-0.2/karnickel.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-0.2/example/macros.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-0.2/test_karnickel.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/README.md",
+		"/C/Users/gordi_000/Downloads/pyotherside-master/pyotherside-master/src/qmldir",
+		"/C/Users/gordi_000/Downloads/pyotherside-master/pyotherside-master/python.pri",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-0.2/example/test.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-0.2/example/fail.py",
+		"/F/MyDocument/[Programing]/Python/macropy/anotherMacropy/karnickel-0.2/example/__init__.py",
+		"/F/MyDocument/[Programing]/Python/PhotoshopAsGui/python3_branch/showcase.kv",
+		"/F/MyDocument/[Programing]/Python/KivySamples/KivyPickup/kivycatalog/kivycatalog.kv",
+		"/C/Users/gordi_000/Downloads/pyotherside-master/pyotherside-master/pyotherside.pri",
+		"/C/Users/gordi_000/Downloads/pyotherside-master/pyotherside-master/pyotherside.pro",
+		"/F/buildcython.py",
+		"/F/temp.ps1",
+		"/F/configure.bat",
+		"/F/test2.bat",
+		"/F/test3.bat",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/F/e62da5f8-6f06-4df5-b2c3-a40318b2ec93.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/KivyLang.sublime-theme",
+		"/F/MyDocument/[Programing]/Python/FetchFromLinux/kivy_learning/gordianknot/utils/entryargs.py",
+		"/F/MyDocument/[Programing]/Python/KivyFramework/kivy/examples/demo/showcase/showcase.kv",
+		"/D/bash/start_shell.bat",
+		"/D/bash/README.txt",
+		"/D/Python27/lib/subprocess.py",
+		"/F/e4ff7f96-aa08-4a94-aafb-54ea124e6883.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/python_class_attributes.sublime-snippet",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/python_shiban_snippet.sublime-snippet",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/python_shiban_snippet",
+		"/F/test.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-project",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/.ropeproject/config.py",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/KivyLang.tmTheme",
+		"/D/Python27/Scripts/runcython",
+		"/D/Python27/Scripts/makecython",
+		"/F/MyDocument/[Programing]/Python/FetchFromLinux/Memento/lib/rapydml/make.bat",
+		"/F/MyDocument/[Programing]/Python/FetchFromLinux/Memento/lib/rapydml/plugin/make.bat",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/package-metadata.json",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/KivyLang.sublime-settings",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR03.464/Comments.tmPreferences",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR33.464/package-metadata.json",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/KivyLang.sublime-build",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR34.760/LuaDoc.sublime-completions",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR22.240/ParseMoon.py",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR79.240/package-metadata.json",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR35.240/Moonscript.sublime-settings",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR76.240/Moonscript.sublime-build",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR45.536/Main.sublime-menu",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR95.536/LuaDoc.sublime-completions",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR08.536/Comments.tmPreferences",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR44.536/Love.sublime-completions",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/Default.sublime-commands",
+		"/C/Users/GORDI_~1/AppData/Local/Temp/Rar$DR70.832/sublime_plugin.py-3",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/import.txt",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/KivyLang.sublime-keymap",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/Main.sublime-menu",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/package.json",
+		"/C/Users/gordi_000/AppData/Roaming/Sublime Text 3/Packages/KivyLang/KivyLang.YAML-tmLanguage"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"TPyCFunction",
+			"initPython",
+			"rest",
+			"indo",
+			"donuse",
+			".pop",
+			"TPyObject",
+			"PPyTypeObject",
+			"TPyObject",
+			"PPyObject",
+			"PyArg_ParseTuple",
+			"PyRef",
+			"PPyObject",
+			"KProperty",
+			"new",
+			"new\n\n\n\n\n",
+			"  ",
+			"new ",
+			"(self",
+			"{. exportc, dynlib .}",
+			"pointer",
+			"proc (self: PPyObject, args: PPyObject): PPyObject",
+			"TPyMethodDef",
+			"MethodDef",
+			"PyModule_Create",
+			"PyModuleDef",
+			"Py_InitModule",
+			"Py_InitModule4",
+			"PyInt_",
+			"PyString_",
+			"PyLong_Type",
+			"PyString_",
+			"PyInt_",
+			"PyInt_FromLong",
+			"dllname",
+			"PyTypeObject",
+			"PyVarObject_HEAD_INIT",
+			"PyObject_HEAD_INIT",
+			"PyTypeObject",
+			"PyClassObject",
+			"RO",
+			"PyInt_FromLong",
+			"PyLong",
+			"PyInt_FromLong",
+			"Py_InitModule",
+			"assign_ptr_array",
+			"proc `[]`",
+			"[]",
+			"MethodDef",
+			"Py_InitModule",
+			"PPyMethodDef",
+			"PyMethodDef",
+			"TPy_Buffer",
+			"TypedPyBuffer1D",
+			"PTypedPyBuffer1D",
+			"TypedPyBuffer1D",
+			"PTypedPyBuffer1D",
+			"TPyCFun",
+			"TPyMethodDef",
+			"  \nTPyCFunction",
+			"TPyCFunction",
+			"METH_VARARGS",
+			"TPyCFunction",
+			"TPyMethodDef",
+			"PyObject",
+			"ptr PyObject",
+			"loc",
+			"] ",
+			"] =",
+			"PyExc_TypeError",
+			"PyExc_ImportError",
+			"PyErr_SetString",
+			"ErrorObject",
+			"errorobject",
+			"PyObject",
+			"  ",
+			"TCstringTtable",
+			"list",
+			"remove",
+			"pop",
+			"Run",
+			"run",
+			"ifdef",
+			"ifndef",
+			"flist",
+			"objectPtn",
+			"intrests args:",
+			"interests",
+			"get_argvalue",
+			"getvalue",
+			"get_argvalue",
+			"getvalue",
+			"== REPLACE Inlinefunction ====",
+			"node",
+			"inlinefunction",
+			"inlineFunction == ",
+			"walk ",
+			"inlineFunction ==",
+			"inline_functions",
+			"REPLACE Inline",
+			"module",
+			"          =",
+			"walk",
+			"condition",
+			"conditions",
+			"consition",
+			"walk(",
+			"condition",
+			"stop",
+			"do ",
+			"do  ",
+			"do ",
+			"do = ",
+			"def do",
+			"do",
+			"getvalue",
+			"exec",
+			"final caller body",
+			"dump quote",
+			"kargs ==",
+			"-- dump quote",
+			"ENUMTYPE",
+			"dump quote",
+			"---- dump quote",
+			"dump quote",
+			"quote",
+			"== AST Block macro ======",
+			"quote"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ref",
+			"    ",
+			"",
+			"PyLong_",
+			"PyBytes_",
+			"PyLong_",
+			"PyLong_FromLong",
+			"PPyObject",
+			"TPyObject",
+			"    ",
+			"TCstringTable",
+			"getvalue",
+			"getAssignValue",
+			"IS",
+			"",
+			"_handle_ast_block_macro",
+			"_handle_ast_decorator_macro",
+			"to_source($1)",
+			"to_source(",
+			"_handle_astmacro_block",
+			"node.args.args",
+			"MACROS",
+			"#print",
+			"code, module.__dict__",
+			"zip",
+			"ModuleType",
+			"Popen",
+			"/",
+			".png",
+			"kivylang_import",
+			"cls_rows",
+			"clsrows",
+			"altered_cls_row",
+			"cls_row",
+			"rowcol_to_point",
+			"getline",
+			"getword",
+			"substr",
+			"",
+			" static method)",
+			"in module $1",
+			" method)",
+			" $1",
+			" attribute))",
+			" $1",
+			" method)",
+			"",
+			"\\n",
+			"emptyLine",
+			"_nodes",
+			"self.interests_attrs",
+			"self.interests_tags",
+			"retain_table_attrs",
+			"IMG",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nim_test.nim",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3542,
+								3542
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/KivyLang.tmTheme",
+							"syntax": "Packages/NimLime/nimrod.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2632.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.aaa_package_dev":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 94.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "PyNimCFFI.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ast",
+				"astutil\\ast_tool.py"
+			],
+			[
+				"test.py",
+				"example\\test.py"
+			],
+			[
+				"macro",
+				"temp_macros.py"
+			],
+			[
+				"example",
+				"example\\macros.py"
+			],
+			[
+				"macros",
+				"example\\macros.py"
+			],
+			[
+				"codegen",
+				"astutil\\codegen.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\MyDocument\\[Programing]\\Python\\kivy_learning\\gordianknot\\gordianknot.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
